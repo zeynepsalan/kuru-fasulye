@@ -1,0 +1,8 @@
+# macOS sistem dosyaları
+.DS_Store
+
+# VS Code ayarları
+.vscode/
+
+# Varsa log dosyaları
+*.log
